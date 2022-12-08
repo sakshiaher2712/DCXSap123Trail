@@ -12,6 +12,7 @@ import de.hybris.platform.util.Utilities;
 /**
  * Demonstration of how to write a standalone application that can be run directly from within eclipse or from the
  * commandline.<br>
+
  * To run this from commandline, just use the following command:<br>
  * <code>
  * java -jar bootstrap/bin/ybootstrap.jar "new concerttours.ConcerttoursStandalone().run();"
